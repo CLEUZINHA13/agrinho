@@ -32,7 +32,7 @@ em strong {
 }
 
 .beneficios {
-	background: #FFFFFF;
+	background: #CCCCCC;
 	padding: 20px;
 }
 
@@ -48,4 +48,14 @@ ul {
 
 .imagembeneficios {
 	width: 50%;
+}
+.rodape{
+    background-color:#CCCCCC ;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 100px;
+    padding: 40px 0;
+   
 }
